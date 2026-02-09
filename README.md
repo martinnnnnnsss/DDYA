@@ -1,3 +1,11 @@
+ SEMANA-2
+# DDYA
+
+## Temas de la Semana 02
+
+ - Teorema Maestro
+ - Dividir y Conquistar
+
 # DDYA 2026 - 1
 ---
 ### · Martin Andres Obregoso 
@@ -10,3 +18,4 @@
 · Análisis Asintótico.
 <br> </br>
 · Recursión. 
+ main
