@@ -18,4 +18,9 @@
 · Análisis Asintótico.
 <br> </br>
 · Recursión. 
+## Semana 4
+· Programación Modular
+<br> </br>
+. Se suben los archivos del laboratorio y del trabajo en clase del día 16/02/2026
+ main
  main
